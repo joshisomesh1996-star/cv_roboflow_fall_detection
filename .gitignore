@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#fall_input_2.mp4
+#fall_output_annotated_2.mp4
+fall_input_1.mp4
+fall_output_annotated_1.mp4
+fall_input.mp4
+fall_output_annotated.mp4
