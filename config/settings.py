@@ -1,4 +1,4 @@
-API_KEY = "qZWl0OCk85qRWQf1gLgV"
+API_KEY = ""
 
 MODEL_ID = "fall-detection-mbldh/1"
 
